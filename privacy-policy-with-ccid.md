@@ -79,37 +79,37 @@ OpenID, including Creative Commons OpenID services, and the CCID account system 
 
 Our Data Usage Policy covers how we maintain and use information about you that is collected by our Services, including when you log into a website using your Creative Commons OpenID or CCID.
 
-### Non Personal Browsing Information We Collect. 
+### Non Personal Browsing Information We Collect 
 
 When you use the Services, our servers (which may be hosted by a third party service provider) may collect information indirectly and automatically (through, for example, the use of your “IP address”) about your activities while visiting the Websites and information about the browser you are using. In addition, whenever you use your Creative Commons OpenID or CCID to log into a website, our servers (which, again, may be hosted by a third party service provider) keep a log of the websites you visit and when you visit them.
 
-### No Linking. 
+### No Linking 
 
 We do not intentionally link browsing information or information from our OpenID or CCID server logs to the personal information you submit to us. We use this information for internal purposes only, such as to help understand how the Services are being used, to improve our Services, and for systems administration purposes. CC may use a third party analytics provider to help us collect and analyze non personal browsing information through operation of our Services for those same purposes.
 
-### No Selling or Sharing. 
+### No Selling or Sharing 
 
 Except in the unique situations identified in this Privacy Policy, Creative Commons does not sell or otherwise voluntarily provide the non personal browsing information we collect about you or your website usage to third parties.
 
-### No Access.
+### No Access
 
 As an OpenID service provider, CC could technically access your web-based account tied to our OpenID service, and could log in on behalf of any of its OpenID users to any of the accounts they have accessed using their Creative Commons OpenID. Creative Commons will never use this technical login ability for any purpose unless otherwise required by law.
 
-### No Retention. 
+### No Retention 
 
 CC discards non personal browsing information from our OpenID and CCID server logs once we have used the information for the limited purposes noted above, under “No Linking.”
 
-### Notice. 
+### Notice 
 
 If Creative Commons is required to provide a third party with your non personal browsing information or to log in on behalf of an OpenID or CCID user (whether by subpoena or otherwise), then CC will use reasonable means to notify you promptly of that event, unless CC is prohibited by law from doing so or is otherwise advised not to notify you on the advice of legal counsel.
 
 Any other non-personal information that we collect which is not described specifically in this Privacy Policy will only be collected and used in accordance with the Principles.
 
-##Reorganization or Spin-Offs. 
+##Reorganization or Spin-Offs 
 
 Creative Commons may transfer some or all of your personal and/or non personal browsing information to a third party as a result of a reorganization, spin-off, or similar transaction. Upon such transfer, the acquirer’s privacy policy will apply. In such event, Creative Commons will use reasonable efforts to notify you and to ensure that at the time of the transaction the acquirer’s privacy policy complies with the Principles.
 
-## Children. 
+## Children 
 
 The Services are not directed at children under the age of 13. Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personal information from anyone under the age of 13 without requiring parental consent. Our Master Terms of Use specifically prohibit anyone using our Services from submitting any personally identifiable information about persons under 13 years of age. Any person who provides their personal information to CC through the Services represents that they are 13 years of age or older.
 
