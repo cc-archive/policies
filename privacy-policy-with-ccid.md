@@ -34,7 +34,7 @@ We may collect personal information through our Services, including without limi
 * when you join and use the Creative Commons network through our ccNet Website, and/or establish a Creative Commons OpenID; and
 * when you provide personal information in connection with your participation in any of the forums we make available through our Services.
 
-## What CC does with Personal Information
+## What CC Does with Personal Information
 
 License/Tool Selection. We use the personal information you provide to us as part of your selection of one of our licenses/tools to provide you the RDF, html, and the uniform resource locator that correspond to the license/tool you selected. Some older versions of the license chooser enable Creative Commons to send you this information via email. In those cases, your email address is expunged after this email has been successfully sent. We may use all of this information to maintain license usage data.
 
@@ -47,13 +47,15 @@ Donations. When you donate money to us or purchase merchandise via our support p
 1. If you purchase merchandise from the Creative Commons store (http://store.creativecommons.org/), your personal information will be used for the purpose of sending you the items you purchased. If you sign up to receive updates from Creative Commons when you check out from the store, we will use your personal information to send you communications about Creative Commons news and campaigns.
 2. You may donate money to Creative Commons directly or through a variety of on-line payment sites, including PayPal, JustGive.org, Good Search, Network for Good, and Mission Fish, among others. When you use any of those websites and services to donate to CC, your personal information is sent to, handled by and stored by those websites in accordance with their respective privacy policies and terms of use. You should read and understand the privacy policy and terms of use of any website you use to donate to Creative Commons. When you donate money to Creative Commons directly, we use your personal information to process your donation. When you donate money as part of one of CC’s fundraising campaigns, your name will be published on our “supporters page” unless you request otherwise. If you sign up to receive updates from Creative Commons when you provide your donation, we will use your personal information to send you communications about Creative Commons news and campaigns.
 
-## ccNet Website. 
+## ccNet Website 
 
-This service is no longer accepting new accounts, but if you previously created a ccNet account, you may still access and use it. When you joined ccNet , you provided personal information to create your account and establish a password and profile, and to create an OpenID. We use that personal information to establish and maintain your accounts, provide you with the features we provide for account holders, to act as your OpenID service provider, and for the purpose of contacting you about upcoming news and events relevant to Creative Commons.
+This service is no longer accepting new accounts, but if you previously created a ccNet account, you may still access and use it. When you joined ccNet, you provided personal information to create your account and establish a password and profile, and to create an OpenID. We use that personal information to establish and maintain your accounts, provide you with the features we provide for account holders, to act as your OpenID service provider, and for the purpose of contacting you about upcoming news and events relevant to Creative Commons.
 
 By joining ccNet, you were also given a public profile page where you can voluntarily post personal information for public viewing. The information that you submit on your public profile page, including but not limited to information you provide in the field “Your CC Story” and any photograph or image of yourself you upload, is posted by you at your discretion (although subject to ccNet’s Master Terms of Use). The information you publish on your public profile page, including your personal information, may be used by anyone who views that information for any lawful purpose, with the exception of the text you insert in the “Your CC Story” field and any photograph or image of yourself that you upload, which if you choose to provide in either case must be licensed under and becomes subject to the terms and conditions of the Creative Commons Attribution 3.0 Unported License, as stated on the Edit Profile page. CC may use the personal and non personal browsing information you provide in your public profile, including the text in the “Your CC Story” field (subject to the terms of that license), to promote the mission of Creative Commons and the ccNet Website.
 
-Participating in Our Community: Registered Users. When you register to obtain a user account on any of the Services (any such person, a “Registered User”), including but not limited to CCID (a universal log-in for all Creative Commons services), you may be asked to provide personal information to create your account and establish a password and profile. We encourage you to use an alias or nickname if you are not comfortable providing your legal name. The name or nickname you provide in connection with your account may be used to attribute you in connection with any content you submit to any Service. We also use that personal information to establish and maintain your account, to provide you with the features we provide Registered Users, and to email you regarding changes to this policy or other applicable policies. If you sign up to receive updates from Creative Commons when you create your account, we will use your personal information to send you communications about Creative Commons news and campaigns.
+##Participating in Our Community
+
+Registered Users. When you register to obtain a user account on any of the Services (any such person, a “Registered User”), including but not limited to CCID (a universal log-in for all Creative Commons services), you may be asked to provide personal information to create your account and establish a password and profile. We encourage you to use an alias or nickname if you are not comfortable providing your legal name. The name or nickname you provide in connection with your account may be used to attribute you in connection with any content you submit to any Service. We also use that personal information to establish and maintain your account, to provide you with the features we provide Registered Users, and to email you regarding changes to this policy or other applicable policies. If you sign up to receive updates from Creative Commons when you create your account, we will use your personal information to send you communications about Creative Commons news and campaigns.
 
 Any other personal information that we may collect which is not described specifically in this Privacy Policy will only be collected and used in accordance with the Principles.
 
@@ -72,7 +74,6 @@ If Creative Commons is required to provide a third party with your personal info
 Creative Commons has implemented reasonable measures to protect against unauthorized access to and unlawful interception or processing of personal information that Creative Commons stores and controls. However, no website can fully eliminate security risks. Third parties may circumvent our security measures to unlawfully intercept or access transmissions or private communications. We will post a reasonably prominent notice to the Websites if any such security breach occurs.
 
 OpenID, including Creative Commons OpenID services, and the CCID account system have security risks in addition to those described above. Among other things, OpenID and CCID are vulnerable to DNS attacks, and using OpenID and CCID may increase the risk of phishing. See About OpenID for more information about the types and levels of risks associated with OpenID.
-
 
 ## Data Usage Policy: Non Personal Browsing and Site Usage Information
 
@@ -104,17 +105,19 @@ If Creative Commons is required to provide a third party with your non personal 
 
 Any other non-personal information that we collect which is not described specifically in this Privacy Policy will only be collected and used in accordance with the Principles.
 
-Reorganization or Spin-Offs. Creative Commons may transfer some or all of your personal and/or non personal browsing information to a third party as a result of a reorganization, spin-off, or similar transaction. Upon such transfer, the acquirer’s privacy policy will apply. In such event, Creative Commons will use reasonable efforts to notify you and to ensure that at the time of the transaction the acquirer’s privacy policy complies with the Principles.
+##Reorganization or Spin-Offs. 
 
-### Children. 
+Creative Commons may transfer some or all of your personal and/or non personal browsing information to a third party as a result of a reorganization, spin-off, or similar transaction. Upon such transfer, the acquirer’s privacy policy will apply. In such event, Creative Commons will use reasonable efforts to notify you and to ensure that at the time of the transaction the acquirer’s privacy policy complies with the Principles.
+
+## Children. 
 
 The Services are not directed at children under the age of 13. Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personal information from anyone under the age of 13 without requiring parental consent. Our Master Terms of Use specifically prohibit anyone using our Services from submitting any personally identifiable information about persons under 13 years of age. Any person who provides their personal information to CC through the Services represents that they are 13 years of age or older.
 
-### Third-Party Sites
+## Third-Party Sites
 
 The Services may include links to other websites. You should consult the respective privacy policies of these third-party sites. This Privacy Policy does not apply to, and we cannot control the activities of, such other websites.
 
-### Special Note to International Users
+## Special Note to International Users
 
 The Services are hosted in the United States and the United Kingdom. Please note that your personal data may be located on servers in the United States and/or the United Kingdom. By providing your personal data you consent to the use of your personal data for the uses identified above in accordance with the Privacy Policy.
 
@@ -126,7 +129,7 @@ We may occasionally update this Privacy Policy. When we do, we will also revise 
 
 The Creative Commons Privacy Policy is dedicated to the public domain under the Creative Commons CC0 Public Domain Dedication. You are free to use and adapt this Privacy Policy and any applicable Supplemental Privacy Policy Terms for your own purposes. However, please keep in mind that this Privacy Policy may not be completely suitable for your situation. Creative Commons strongly encourages you to seek the advice of your own attorney before repurposing this Privacy Policy on your own site.
 
-### Questions?
+## Questions?
 
 If you have questions about this Privacy Policy, please contact us by email at legal@creativecommons.org.
 
