@@ -1,4 +1,4 @@
-# Terms of Use – effective as of [ ]
+# Terms of Use – effective as of 2014-12-22 (December 22nd 2014)
 
 ## 1. General Information Regarding These Terms of Use
 
