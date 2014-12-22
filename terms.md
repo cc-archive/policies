@@ -442,13 +442,17 @@ relating to access and use of the Services.
 >law. We are glad you use our sites, but this agreement does not mean
 >we are partners.
 
-Note about Reusing these Terms of Use. The Creative Commons Terms of
-Use are dedicated to the public domain under the Creative Commons CC0
-Public Domain Dedication. You are free to use and adapt these Master
-Terms and any applicable Additional Terms for your own
-purposes. However, please keep in mind that these Terms may not be
-completely suitable for your situation. Creative Commons strongly
-encourages you to seek the advice of your own attorney before
-repurposing these Terms on your own site.
+---
+
+#### Note about Reusing these Terms of Use.
+
+The Creative Commons Terms of Use are dedicated to the public domain
+under the
+[Creative Commons CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). You
+are free to use and adapt these Master Terms and any applicable
+Additional Terms for your own purposes. However, please keep in mind
+that these Terms may not be completely suitable for your
+situation. Creative Commons strongly encourages you to seek the advice
+of your own attorney before repurposing these Terms on your own site.
 
 
