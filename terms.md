@@ -5,12 +5,13 @@
 Master terms: Unless otherwise noted on a particular site or service,
 these master terms of use (“Master Terms”) apply to your use of all of
 the websites that Creative Commons Corporation operates, including
-http://creativecommons.org, wiki.creativecommons.org,
-openpolicynetwork.org, open4us.org, teamopen.cc,
-donate.creativecommons.org, and the powerofopen.org (the “Websites”),
-as well as the products, information, and services provided through
-the Websites, including the license chooser and legal tools (together
-with the Websites, the “Services”).
+http://creativecommons.org, <http://wiki.creativecommons.org>,
+<http://openpolicynetwork.org>, <http://open4us.org>,
+<http://teamopen.cc>, <http://donate.creativecommons.org>, and
+<http://thepowerofopen.org> (the “Websites”), as well as the products,
+information, and services provided through the Websites, including the
+license chooser and legal tools (together with the Websites, the
+“Services”).
 
 Additional terms: In addition to the Master Terms, your use of any
 Services may also be subject to specific terms applicable to a
