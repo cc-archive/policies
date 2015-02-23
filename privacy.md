@@ -286,10 +286,10 @@ usage to third parties.
 
 ### No Access
 
-As an OpenID service provider, CC could technically access your
-web-based account tied to our OpenID service, and could log in on
-behalf of any of its OpenID users to any of the accounts they have
-accessed using their Creative Commons OpenID. Creative Commons will
+As an OpenID  and CCID service provider, CC could technically access your
+web-based account tied to our OpenID or CCID service, and could log in on
+behalf of any of its OpenID or CCID users to any of the accounts they have
+accessed using their Creative Commons OpenID or CCID. Creative Commons will
 never use this technical login ability for any purpose unless
 otherwise required by law.
 
