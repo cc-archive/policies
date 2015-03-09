@@ -375,5 +375,5 @@ Privacy Policy on your own site.
 If you have questions about this Privacy Policy, please contact us by
 email at legal@creativecommons.org.
 
-Effective Date: 2015-2-23 (February 23rd 2015)
+Effective Date: 2015-3-9 (March 9th 2015)
 
