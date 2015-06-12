@@ -12,6 +12,6 @@ These policies are dedicated to the public domain under the Creative Commons CC0
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Sarah](https://github.com/sarahpearson)  |
-| Accountable  | Add yourselves here  |
+| Accountable  | [Diane] (https://github.com/peterspdx)  |
 | Consulted | Add yourselves here |
 | Informed | Add yourselves here |
